@@ -60,6 +60,7 @@ order please).
 * [Archon Systems](http://www.archonsystems.com/)
 * [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
+* [Captain AI](https://www.captain.ai) - Dispatching and logistics software to manager delivery drivers using AI
 * [CareerJSM](https://careerjsm.com) - CareerJSM the best way for career centres to support students during a modern job search.
 * [Coupgon](https://coupgon.com) - Canada's first fully digital mobile grocery coupon.
 * [Evercondo](http://www.evercondo.com) - The next generation condominium platform
